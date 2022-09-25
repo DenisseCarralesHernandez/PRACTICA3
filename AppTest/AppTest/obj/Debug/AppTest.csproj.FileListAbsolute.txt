@@ -1,0 +1,10 @@
+C:\Users\Denisse\source\repos\AppTest\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\Denisse\source\repos\AppTest\AppTest\bin\Debug\AppTest.exe
+C:\Users\Denisse\source\repos\AppTest\AppTest\bin\Debug\AppTest.pdb
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.csprojAssemblyReference.cache
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.Form1.resources
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.cache
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.exe
+C:\Users\Denisse\source\repos\AppTest\AppTest\obj\Debug\AppTest.pdb
